@@ -1,6 +1,6 @@
 {
-  "versionCode": 10011,
-  "versionName": "1.0.11",
-  "downloadUrl": "https://github.com/pete254/ludo-media/releases/download/hiram-v1.0.11/hiram-manager-1.0.11.apk",
-  "notes": "Supervisors sign themselves in (also as workers on other projects); admins sign workers in; report photos in the app; photos don't wait for GPS; Change PIN returns home; role changes take effect at once\n"
+  "versionCode": 10012,
+  "versionName": "1.0.12",
+  "downloadUrl": "https://github.com/pete254/ludo-media/releases/download/hiram-v1.0.12/hiram-manager-1.0.12.apk",
+  "notes": "Supervisors see planned and on-hold projects, with a 'Planned · starts …' badge\n"
 }
